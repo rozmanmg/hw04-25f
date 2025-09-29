@@ -1,3 +1,3 @@
-# Homework assignment 3
+# Homework assignment 4
 
-### Simpson's quadrature
+### Euler's method for IVP
